@@ -9,11 +9,11 @@ sites:
     url: https://forum.unitedgamingalliance.com
   - name: United Gaming Alliance Virtual Airline
     url: https://va.unitedgamingalliance.com
-  - name: United Gaming Alliance Minecraft
+  - name: Minecraft
     check: "tcp-ping"
     url: 149.28.42.129
     port: 25565 
-  - name: United Gaming Alliance 7D2D
+  - name: 7D2D
     check: "tcp-ping"
     url: 149.28.42.129
     port: 26900 

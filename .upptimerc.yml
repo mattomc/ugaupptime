@@ -22,7 +22,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: United Gaming alliance Status
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: United Gaming Alliance UPTIME 
+  introMessage: United Gaming Alliance UPTIME Status Website
   navbar:
     - title: Status
       href: /
